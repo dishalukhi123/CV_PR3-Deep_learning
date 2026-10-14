@@ -21,6 +21,12 @@ This project demonstrates both **classical image-processing techniques** and **d
 
 ---
 
+### ▶️ Video Demonstration
+
+> **Project Explanation Video:**  
+> [Click here to watch the complete project explanation](https://drive.google.com/file/d/1oVzd9RosZp77m0dO8qXUBApn1w7EXm7i/view?usp=sharing)
+
+
 # 📂 Project Structure
 
 ```text
