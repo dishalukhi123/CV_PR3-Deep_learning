@@ -27,6 +27,13 @@ This project demonstrates both **classical image-processing techniques** and **d
 > [Click here to watch the complete project explanation](https://drive.google.com/file/d/1oVzd9RosZp77m0dO8qXUBApn1w7EXm7i/view?usp=sharing)
 
 
+## Live Demo Screenshot
+
+The screenshot below shows the integrated webcam demo detecting a face with **YuNet** and objects with **YOLOv8**. In this example, the display reports approximately 14.6 FPS, one detected face, and two detected objects. Performance and detections will vary with the computer, camera, lighting, and confidence thresholds.
+
+![YuNet face and YOLO object detection live demo](plots\example.png)
+
+
 # 📂 Project Structure
 
 ```text
